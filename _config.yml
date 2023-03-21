@@ -85,8 +85,8 @@ author:
   bio              : "I am a PHD student at the School of Artificial Intelligence and Automation, Huazhong University of Science and Technology (HUST), advised by Prof. Zhiguo Cao. Before that, I received my bachelor's degree from HUST in 2021."
   location         : "Wuhan, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=p_RnaI8AAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/RaymondWang987"
   google_plus      :
   keybase          :
   instagram        :
